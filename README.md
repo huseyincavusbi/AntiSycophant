@@ -2,7 +2,8 @@
 
 This project demonstrates a system that improves AI truthfulness and reduces sycophantic responses. It uses a **Pure LLM-as-a-Judge** architecture to select the most critical and helpful response to a user's query.
 
-![AntiSycophant UI](example.png)
+![AntiSycophant UI](example1.png)
+![AntiSycophant UI](example2.png)
 
 ## Try Demo Here
 
