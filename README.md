@@ -1,6 +1,6 @@
 # 🤖 AntiSycophant 🤖
 
-This project demonstrates a system that improves AI truthfulness and reduces "yes-man" behavior. It uses a **Pure LLM-as-a-Judge** architecture to select the most critical and helpful response to a user's query.
+This project demonstrates a system that improves AI truthfulness and reduces sycophantic responses. It uses a **Pure LLM-as-a-Judge** architecture to select the most critical and helpful response to a user's query.
 
 ![AntiSycophant UI](example.png)
 
